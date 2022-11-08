@@ -58,15 +58,15 @@ Name | Badges
 <a href="https://github.com/Tolulope05/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Tolulope05">
 </a>
-<a href="https://github.com/Tolulope05?tab=followers"><img src="https://img.shields.io/github/followers/Tolulope05?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Opeoluwa-Muritala?tab=followers"><img src="https://img.shields.io/github/followers/Opeoluwa-Muritala?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
  <br>
  
  
  ## Stats.
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolulope05&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolulope05&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Tolulope Fakunle's github stats" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Opeoluwa-Muritala&layout=compact&theme=dark&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Opeoluwa-Muritala&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs's github stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Opeoluwa-Muritala&theme=dark" alt="Opeoluwa-Muritala" /></p>
 <br/>
