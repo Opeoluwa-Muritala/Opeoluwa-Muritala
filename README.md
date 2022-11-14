@@ -19,7 +19,8 @@
 
 - 🔭 I'm a member of **Google Developer Group and I am open to work.**
  
- ## 🔗 Links
+ ## 🔗 Links!
+
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/104275281261598464663/dashboard)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/muritala-opeoluwa-294a84227/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/5646pz)
@@ -55,8 +56,8 @@ Name | Badges
 
 ## ❤ Views and Followers.
 
-<a href="https://github.com/Tolulope05/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Tolulope05">
+<a href="https://github.com/Opeoluwa-Muritala/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Opeoluwa-Muritala">
 </a>
 <a href="https://github.com/Opeoluwa-Muritala?tab=followers"><img src="https://img.shields.io/github/followers/Opeoluwa-Muritala?label=Followers&style=social" alt="GitHub Badge"></a>
 
