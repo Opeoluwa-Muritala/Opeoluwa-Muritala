@@ -1,23 +1,12 @@
  ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Opeoluwa Muritala </h1>
-<h3 align="center">A passionate Software Engineer from Nigeria. </h3>
+<h2 align="center">A passionate Software Engineer from Nigeria. </h2>
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Opeoluwa-Muritala&label=Profile%20views&color=0e75b6&style=flat" alt="Opeoluwa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/MuritalaOpeolu1" target="blank"><img src="https://img.shields.io/twitter/follow/MuritalaOpeolu1?logo=twitter&style=for-the-badge" alt="Opeoluwa Muritala" /></a> </p>
 
-- 🔭 I’m currently working on **Projects with Android and Kotlin**
-
-- 🌱 I’m currently learning ** C, Kotlin & Python **
-
-- 💬 Ask me about **Mobile App Development**
-
-- 📫 How to reach me **muritalaopeoluwa10@gmail.com**
-
-- ⚡ Fun fact **I am a student of the ALX Software Engineering Programme**
-
-- 🔭 I'm a member of **Google Developer Group and I am open to work.**
  
  ## 🔗 Links!
 
@@ -27,7 +16,7 @@
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@Muritalaopeoluwa)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joel.4God)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mojmuritalaopeoluw.wixsite.com/muritalaopeoluwajoel)
-[![Gmail](https://img.shields.io/badge/Gmail-muritalaopeoluwa10%40gmail.com%20-blue)]muritalaopeoluwa10@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-muritalaopeoluwa10%40gmail.com%20-blue)](muritalaopeoluwa10@gmail.com)
 [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFG6ffuLTjkByo2rHHPgzoQ)
 
 ### 🛠 Tools and Framework
@@ -54,7 +43,17 @@ Name | Badges
 
 <hr>
 
-## ❤ Views and Followers.
+## ❤ Views, Followers and Ratings.
+</p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=Opeoluwa-Muritala&show_icons=true&theme=jolly&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Opeoluwa-Muritala&langs_count=8&theme=jolly&layout=compact" />
+</a>
+
+<p> 
 
 <a href="https://github.com/Opeoluwa-Muritala/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Opeoluwa-Muritala">
