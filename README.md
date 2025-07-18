@@ -53,8 +53,6 @@ Offline-first chat with Bluetooth + cloud sync.
 
 ## 🔗 Connect with Me
 
-## 🔗 Connect with Me
-
 - [LinkedIn](https://www.linkedin.com/in/muritala-opeoluwa-75a3a22a4/)
 - [WhatsApp](https://wa.link/5646pz)
 - [Medium](https://medium.com/@Muritalaopeoluwa)
