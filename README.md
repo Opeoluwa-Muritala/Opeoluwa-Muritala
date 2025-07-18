@@ -53,13 +53,15 @@ Offline-first chat with Bluetooth + cloud sync.
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muritala-opeoluwa-75a3a22a4/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/5646pz)
-[![Medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@Muritalaopeoluwa)
-[![Instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joel.4God)
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mojmuritalaopeoluw.wixsite.com/muritalaopeoluwajoel)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muritalaopeoluwa10@gmail.com)
-[![YouTube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFG6ffuLTjkByo2rHHPgzoQ)
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/muritala-opeoluwa-75a3a22a4/)
+- [WhatsApp](https://wa.link/5646pz)
+- [Medium](https://medium.com/@Muritalaopeoluwa)
+- [Instagram](https://www.instagram.com/joel.4God)
+- [Portfolio Website](https://mojmuritalaopeoluw.wixsite.com/muritalaopeoluwajoel)
+- [Email](mailto:muritalaopeoluwa10@gmail.com)
+- [YouTube](https://www.youtube.com/channel/UCFG6ffuLTjkByo2rHHPgzoQ)
 
 ---
 
@@ -67,10 +69,11 @@ Offline-first chat with Bluetooth + cloud sync.
 
 | Category | Tools |
 | ------- | ----- |
-| **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe%20xd&logoColor=#FF61F6) |
-| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) |
-| **Frameworks & Libraries** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-000000?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Design** | [Figma](https://www.figma.com) • [Adobe XD](https://www.adobe.com/products/xd.html) |
+| **Languages** | [C](https://en.wikipedia.org/wiki/C_(programming_language)) • [Python](https://www.python.org) • [Kotlin](https://kotlinlang.org) |
+| **Frameworks & Libraries** | [Flutter](https://flutter.dev) • [Jetpack Compose](https://developer.android.com/jetpack/compose) • [Bootstrap](https://getbootstrap.com) |
+| **Databases** | [MongoDB](https://www.mongodb.com) • [Firebase](https://firebase.google.com) • [MySQL](https://www.mysql.com) |
+
 
 ---
 
