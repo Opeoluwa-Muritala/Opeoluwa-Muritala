@@ -12,8 +12,6 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
-
 <p align="left">
   <a href="https://x.com/ComposeDev" target="blank">
     <img src="https://img.shields.io/twitter/follow/ComposeDev?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
@@ -78,20 +76,11 @@ Offline-first chat with Bluetooth + cloud sync.
 ## 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Opeoluwa-Muritala&langs_count=8&layout=compact&theme=jolly" />
-</a>
-
-<br/>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Opeoluwa-Muritala&show_icons=true&count_private=true&theme=dark&hide_border=false&layout=compact" />
 </a>
 
 <br/>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Opeoluwa-Muritala&theme=dark" />
-</a>
 
 > ⚠️ *Note: Top languages are based on public repositories only and do not reflect actual proficiency.*
 
