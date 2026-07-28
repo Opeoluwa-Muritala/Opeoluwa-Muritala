@@ -1,91 +1,77 @@
-![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Opeoluwa Muritala</h1>
-<h2 align="center">A passionate Software Engineer from Nigeria</h2>
+# Hi, I'm Opeoluwa Muritala Joel 👋
 
-<p align="center">
-  <a href="https://github.com/Opeoluwa-Muritala/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Opeoluwa-Muritala" alt="Profile views">
-  </a>
-  <a href="https://github.com/Opeoluwa-Muritala?tab=followers">
-    <img src="https://img.shields.io/github/followers/Opeoluwa-Muritala?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</p>
+### Android Developer | Mobile Engineer | Building production apps with Kotlin & Jetpack Compose
 
-<p align="left">
-  <a href="https://x.com/ComposeDev" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ComposeDev?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muritala-opeoluwa-75a3a22a4/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muritalaopeoluwa10@gmail.com)
+
+</div>
 
 ---
 
-## 💼 About Me
+## 🚀 About Me
 
-I'm a **Software Engineer** with a strong focus on **Android development**, passionate about building impactful mobile experiences. My journey blends leadership, mentoring, and hands-on development.
+I'm a final-year Computer Engineering student at the University of Ilorin (expected 2027), building production-grade Android applications with Kotlin, Jetpack Compose, and clean MVVM architecture. Currently working on **FieldCRM**, a loan origination and field agent management system for a microfinance bank — spanning a FastAPI web app and a Kotlin/Jetpack Compose Android client.
 
-- 🧠 **Technical Lead** — Led engineering tracks at **Cowrywise, Unilorin**, mentoring aspiring developers and coordinating tech workshops.
-- 📱 **App Developer** — Built apps like **Scholar Navigate** and **Kuz Chat**, using **Jetpack Compose**, **Room**, **Firebase**, and **Koin/Hilt**.
-- 💬 **Community Builder** — Active contributor to the African dev community, sharing opportunities and guiding beginners.
-- 🎯 **Product Thinking** — Experienced in designing scalable modular apps with clean architecture and intuitive UX.
+I lead a 5-person engineering team at **ATC Ilorin** and teach mobile development fundamentals to 1,000+ students through the **Cowrywise x Unilorin** skill track.
 
----
-
-## 📱 Featured Projects
-
-### 🧭 Scholar Navigate  
-Android app for navigating campus and accessing resources.
-
-- Jetpack Compose + Firebase + Room
-- Modular architecture & cloud storage
-- Built to help Nigerian university students
-
-### 💬 Kuz Chat App  
-Offline-first chat with Bluetooth + cloud sync.
-
-- Bluetooth + Firebase integration
-- Real-time messaging fallback when online
-- Built using Compose, KSP, and Clean Architecture
+- 🔭 Currently building: **FieldCRM** — a full field-agent CRM and loan origination system
+- 🌱 Currently exploring: **Kotlin Multiplatform (KMP)** for cross-platform mobile development
+- 👯 Open to collaborating on: Android/Kotlin projects and open-source mobile tooling
+- 💬 Ask me about: Jetpack Compose, MVVM, Firebase, or mobile app architecture
 
 ---
 
-## 🔗 Connect with Me
+## 🛠️ Tech Stack
 
-- [LinkedIn](https://www.linkedin.com/in/muritala-opeoluwa-75a3a22a4/)
-- [WhatsApp](https://wa.link/5646pz)
-- [Medium](https://medium.com/@Muritalaopeoluwa)
-- [Instagram](https://www.instagram.com/joel.4God)
-- [Portfolio Website](https://mojmuritalaopeoluw.wixsite.com/muritalaopeoluwajoel)
-- [Email](mailto:muritalaopeoluwa10@gmail.com)
-- [YouTube](https://www.youtube.com/channel/UCFG6ffuLTjkByo2rHHPgzoQ)
+**Languages & Frameworks**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Architecture & Tools**
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-informational?style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Hilt](https://img.shields.io/badge/Hilt%2FDagger-DI-informational?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ---
 
-## 🛠 Tools & Technologies
+## 📌 Featured Projects
 
-| Category | Tools |
-| ------- | ----- |
-| **Design** | [Figma](https://www.figma.com) • [Adobe XD](https://www.adobe.com/products/xd.html) |
-| **Languages** | [C](https://en.wikipedia.org/wiki/C_(programming_language)) • [Python](https://www.python.org) • [Kotlin](https://kotlinlang.org) |
-| **Frameworks & Libraries** | [Flutter](https://flutter.dev) • [Jetpack Compose](https://developer.android.com/jetpack/compose) • [Bootstrap](https://getbootstrap.com) |
-| **Databases** | [MongoDB](https://www.mongodb.com) • [Firebase](https://firebase.google.com) • [MySQL](https://www.mysql.com) |
-
+| Project | Description | Stack |
+|---|---|---|
+| [**FieldCRM**](https://github.com/Opeoluwa-Muritala/FieldCRM-Project) | Loan origination & field agent management system for a microfinance bank, with web and Android clients | FastAPI, Jinja2, Kotlin, Jetpack Compose |
+| [**SabiMarket**](https://github.com/Opeoluwa-Muritala/SabiMarket) | Multi-role marketplace app for buyers, sellers, and delivery riders — serving 1,000+ active users | Kotlin, MVVM, Retrofit, Koin |
+| [**ScholarNavigate**](https://github.com/Opeoluwa-Muritala/ScholarNavigate) | Student task management app that increased user productivity by 30% | Kotlin, Jetpack Compose, Firebase, Hilt |
+| [**ticket-api**](https://github.com/Opeoluwa-Muritala/ticket-api) | Full-stack support/helpdesk ticketing system with multi-organizational setup | Flask, HTML, CSS, JavaScript |
+| [**kflite**](https://github.com/Opeoluwa-Muritala/kflite) | Contributed a normalization layer to an open-source Kotlin Multiplatform library for running TensorFlow Lite models | Kotlin Multiplatform |
+| [**Event-Response**](https://github.com/Opeoluwa-Muritala/Event-Response) | Civic web app for real-time event discovery and incident reporting via geolocation | TypeScript, Maps API |
+| [**Haven Check**](https://github.com/Opeoluwa-Muritala/GDGOC-Unilorin-Haven-Check-Backend) | Independent API checking Unilorin-area hostel rent fairness, utility reliability, and scam risk, using Gemma function calling to turn results into natural-language replies | FastAPI, Python |
 
 ---
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Opeoluwa-Muritala&show_icons=true&count_private=true&theme=dark&hide_border=false&layout=compact" />
+<a href="https://github.com/username-tools/github-stats-extended">
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=Opeoluwa-Muritala&show_icons=true&count_private=true&theme=dark&hide_border=false&layout=compact" />
 </a>
 
 <br/>
 
-
-> ⚠️ *Note: Top languages are based on public repositories only and do not reflect actual proficiency.*
-
 ---
 
-<!---
-Opeoluwa-Muritala/Opeoluwa-Muritala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muritala-opeoluwa-75a3a22a4/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muritalaopeoluwa10@gmail.com)
+
+</div>
