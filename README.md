@@ -2,7 +2,7 @@
 
 # Hi, I'm Opeoluwa Muritala Joel 👋
 
-### Android Developer | Mobile Engineer | Building production apps with Kotlin & Jetpack Compose
+## Android Developer | Mobile Engineer | Building production apps with Kotlin & Jetpack Compose
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muritala-opeoluwa-75a3a22a4/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muritalaopeoluwa10@gmail.com)
