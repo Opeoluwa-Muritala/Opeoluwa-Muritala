@@ -49,7 +49,7 @@ I lead a 5-person engineering team at **ATC Ilorin** and teach mobile developmen
 |---|---|---|
 | [**FieldCRM**](https://github.com/Opeoluwa-Muritala/FieldCRM-Project) | Loan origination & field agent management system for a microfinance bank, with web and Android clients | FastAPI, Jinja2, Kotlin, Jetpack Compose |
 | [**SabiMarket**](https://github.com/Opeoluwa-Muritala/SabiMarket) | Multi-role marketplace app for buyers, sellers, and delivery riders — serving 1,000+ active users | Kotlin, MVVM, Retrofit, Koin |
-| [**ScholarNavigate**](https://github.com/Opeoluwa-Muritala/ScholarNavigate) | Student task management app that increased user productivity by 30% | Kotlin, Jetpack Compose, Firebase, Hilt |
+| [**ScholarNavigate**](https://github.com/Opeoluwa-Muritala/Scholar_Navigate_New) | Student task management app that increased user productivity by 30% | Kotlin, Jetpack Compose, Firebase, Hilt |
 | [**ticket-api**](https://github.com/Opeoluwa-Muritala/ticket-api) | Full-stack support/helpdesk ticketing system with multi-organizational setup | Flask, HTML, CSS, JavaScript |
 | [**kflite**](https://github.com/Opeoluwa-Muritala/kflite) | Contributed a normalization layer to an open-source Kotlin Multiplatform library for running TensorFlow Lite models | Kotlin Multiplatform |
 | [**Event-Response**](https://github.com/Opeoluwa-Muritala/Event-Response) | Civic web app for real-time event discovery and incident reporting via geolocation | TypeScript, Maps API |
