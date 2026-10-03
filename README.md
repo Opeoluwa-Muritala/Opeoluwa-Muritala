@@ -48,6 +48,7 @@ I lead a 5-person engineering team at **ATC Ilorin** and teach mobile developmen
 | Project | Description | Stack |
 |---|---|---|
 | [**FieldCRM**](https://github.com/Opeoluwa-Muritala/FieldCRM-Project) | Loan origination & field agent management system for a microfinance bank, with web and Android clients | FastAPI, Jinja2, Kotlin, Jetpack Compose |
+| [**Songs of the Kingdom**](https://github.com/Opeoluwa-Muritala/Songs_Of_The_Kingdom) | Modern offline-first hymnal with a rights-safe public-domain catalog, persistent reader preferences, adaptive Material 3 UI, and zero network access | Kotlin, Jetpack Compose, Material 3, DataStore |
 | [**SabiMarket**](https://github.com/Opeoluwa-Muritala/SabiMarket) | Multi-role marketplace app for buyers, sellers, and delivery riders — serving 1,000+ active users | Kotlin, MVVM, Retrofit, Koin |
 | [**ScholarNavigate**](https://github.com/Opeoluwa-Muritala/Scholar_Navigate_New) | Student task management app that increased user productivity by 30% | Kotlin, Jetpack Compose, Firebase, Hilt |
 | [**ticket-api**](https://github.com/Opeoluwa-Muritala/ticket-api) | Full-stack support/helpdesk ticketing system with multi-organizational setup | Flask, HTML, CSS, JavaScript |
